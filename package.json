@@ -20,7 +20,6 @@
     "webpack": "^4.46.0",
     "prop-types": "^15.7.2",
     "webpack-cli": "^3.3.12"
-
   },
   "dependencies": {
     "react": "^17.0.2",
